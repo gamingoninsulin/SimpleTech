@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[42,)"
+license="All rights reserved"
+[[mods]]
+modId="simpleid"
+version="1.0-1.19"
+displayName="Simple Tech"
+logoFile=""
+credits="Thanks for for the great help form KaupenJoe with his tutorials and courses on Udemy. Without him it was never possible!"
+
+authors="Gaming On Insulin"
+
+
+description='''
+This is a Mod about simple tech but what is simple tech simple tech is like Tom's storage idea but then like ore processing and such!
+'''
+[[dependencies.simpletech]] 
+    modId="forge"
+    mandatory=true
+    versionRange="[42,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.simpletech]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.1,)"
+    ordering="NONE"
+    side="BOTH"
