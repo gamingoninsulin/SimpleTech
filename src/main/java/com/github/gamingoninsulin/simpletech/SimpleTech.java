@@ -1,5 +1,6 @@
 package com.github.gamingoninsulin.simpletech;
 
+import com.github.gamingoninsulin.simpletech.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -22,6 +23,12 @@ public class SimpleTech
     public SimpleTech()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+
+        // registers mod items
+        ModItems.Register(modEventBus);
+
+        // registers mod blocks
 
         modEventBus.addListener(this::commonSetup);
 
