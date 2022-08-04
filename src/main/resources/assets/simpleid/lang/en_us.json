@@ -1,4 +1,61 @@
 {
   "item.simpleid.aluminum_chunk": "Aluminum Chunk",
-  "item.simpleid.aluminum_ingot": "Aluminum Ingot"
+  "item.simpleid.aluminum_ingot": "Aluminum Ingot",
+  "item.simpleid.aluminum_nugget": "Aluminum Nugget",
+  "item.simpleid.aluminum_dust": "Aluminum Dust",
+  "item.simpleid.aluminum_plate": "Aluminum Plate",
+
+  "item.simpleid.brass_dust": "Brass Dust",
+  "item.simpleid.brass_ingot": "Brass Ingot",
+  "item.simpleid.brass_nugget": "Brass Nugget",
+  "item.simpleid.brass_plate": "Brass Plate",
+
+  "item.simpleid.bronze_dust": "Bronze Dust",
+  "item.simpleid.bronze_ingot": "Bronze Ingot",
+  "item.simpleid.bronze_nugget": "Bronze Nugget",
+  "item.simpleid.bronze_plate": "Bronze Plate",
+
+  "item.simpleid.copper_dust": "Copper Dust",
+  "item.simpleid.copper_plate": "Copper Plate",
+  "item.simpleid.copper_cable": "Copper Cable",
+  "item.simpleid.copper_insulated_cable": "Copper Insulated Cable",
+
+  "item.simpleid.nickel_ingot": "Nickel Ingot",
+  "item.simpleid.nickel_nugget": "Nickel Nugget",
+  "item.simpleid.nickel_plate": "Nickel plate",
+
+  "item.simpleid.tin_dust": "Tin Dust",
+  "item.simpleid.tin_ingot": "Tin Ingot",
+  "item.simpleid.tin_nugget": "Tin Nugget",
+  "item.simpleid.tin_cable": "Tin Cable",
+  "item.simpleid.tin_plate": "Tin Plate",
+
+  "item.simpleid.zinc_dust": "Zinc Dust",
+  "item.simpleid.zinc_ingot": "Zinc Ingot",
+  "item.simpleid.zinc_nugget": "Zinc Nugget",
+  "item.simpleid.zinc_plate": "Zinc Plate",
+
+  "item.simpleid.tree_sap": "Tree Sap",
+  "item.simpleid.tree_tap": "Tree Tap",
+  "item.simpleid.rubber": "Raw Rubber",
+  "item.simpleid.rubber_sapling": "rubber Sapling",
+  "item.simpleid.silicon_plate": "Silicon Plate",
+
+  "item.simpleid.tech_wrench": "Tech Wrench",
+
+  "item.simpleid.iron_plate": "Iron Plate",
+  "item.simpleid.gold_plate": "Gold Plate",
+  "item.simpleid.diamond_plate": "Diamond Plate",
+  "item.simpleid.emerald_plate": "Emerald Plate",
+  "item.simpleid.netherite_plate": "Netherite Plate",
+
+  "item.simpleid.gold_cable": "Gold Cable",
+
+
+
+
+
+
+  "itemGroup.SimpleTechItemsTab": "Simple Tech Items Tab",
+  "itemGroup.SimpleTechMachinesTab": "Simple Tech Machines Tab"
 }
