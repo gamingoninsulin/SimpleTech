@@ -41,6 +41,9 @@
   "item.simpleid.rubber_sapling": "rubber Sapling",
   "item.simpleid.silicon_plate": "Silicon Plate",
 
+  "item.simpleid.rubber_tree_door": "Rubber Door",
+  "item.simpleid.rubber_tree_trap_door": "Rubber Trap Door",
+
   "item.simpleid.tech_wrench": "Tech Wrench",
 
   "item.simpleid.iron_plate": "Iron Plate",
@@ -50,9 +53,18 @@
   "item.simpleid.netherite_plate": "Netherite Plate",
 
   "item.simpleid.gold_cable": "Gold Cable",
+  "item.simpleid.gold_insulated_cable": "Gole Insulated Cable",
 
+  "block.simpleid.rubber_log": "Rubber Log",
+  "block.simpleid.rubber_log_sap": "Rubber Sap Log",
+  "block.simpleid.rubber_log_stripped": "Stripped Rubber Log",
+  "block.simpleid.rubber_leaves": "Rubber Leaves",
 
+  "block.simpleid.aluminum_ore": "Aluminum Ore",
+  "block.simpleid.aluminum_deepslate_ore": "Aluminum Ore",
+  "block.simpleid.aluminum_block": "Aluminum Block",
 
+  "block.simpleid.tin_ore": "Tin Ore",
 
 
 

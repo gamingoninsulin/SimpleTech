@@ -7,7 +7,7 @@ import static com.github.gamingoninsulin.simpletech.item.ModItems.ALUMINUM_DUST;
 import static com.github.gamingoninsulin.simpletech.item.ModItems.ALUMINUM_INGOT;
 
 public class ModCreativeTab {
-    public static final CreativeModeTab CreativeSimpleItemsTab = new CreativeModeTab("SimpleTechItemsTab") {
+    public static final CreativeModeTab CREATIVESIMPLEITEMSTAB = new CreativeModeTab("SimpleTechItemsTab") {
         @Override
         public ItemStack makeIcon() {
             return new ItemStack(ALUMINUM_DUST.get());

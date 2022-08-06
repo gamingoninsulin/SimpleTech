@@ -1,5 +1,6 @@
 package com.github.gamingoninsulin.simpletech;
 
+import com.github.gamingoninsulin.simpletech.block.ModBlocks;
 import com.github.gamingoninsulin.simpletech.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.common.MinecraftForge;
@@ -29,6 +30,7 @@ public class SimpleTech
         ModItems.Register(modEventBus);
 
         // registers mod blocks
+        ModBlocks.Register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
